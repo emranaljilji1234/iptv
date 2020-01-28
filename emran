@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0,#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="------|USA|------" tvg-logo="" group-title="United States",------|USA|------
+#EXTINF:0,http://mu03.amzlive.net:8880/antest097/EP5biXPUh7/3168
+#EXTINF:-1 tvg-id="" tvg-name="USA:-----|GENERAL|--------------------------------" tvg-logo="" group-title="United States",USA:-----|GENERAL|--------------------------------
+#EXTINF:0,http://mu03.amzlive.net:8880/antest097/EP5biXPUh7/60607
+#EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="US001:A&E-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="United States",US001:A&E-HD
+#EXTINF:0,http://mu03.amzlive.net:8880/antest097/EP5biXPUh7/3167
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="US006:AMC-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="United States",US006:AMC-HD
+#EXTINF:0,http://mu03.amzlive.net:8880/antest097/EP5biXPUh7/3162
+#EXTINF:-1 tvg-id="animal.planet.east.us" tvg-name="US007:ANIMAL-PLANET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US007ANIMAL-PLANET.png" group-title="United States",US007:ANIMAL-PLANET
+#EXTINF:0,http://mu03.amzlive.net:8880/antest097/EP5biXPUh7/3161
